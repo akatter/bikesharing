@@ -19,7 +19,7 @@ The data taken from Citibike is transformed to allow Tableau to be used for anal
 ### Tableau Story
 
 The Tableau analysis was completed and uploaded to Tableau Public, which can be found here. 
-![Link to Dashboard](https://public.tableau.com/app/profile/abdon6252/viz/NYCCitiBikeModule14AK/Story1)
+[Link to Dashboard](https://public.tableau.com/app/profile/abdon6252/viz/NYCCitiBikeModule14AK/Story1)
 
 ### Results
 
